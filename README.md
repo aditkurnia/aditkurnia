@@ -22,14 +22,14 @@
 </p>
 
 ## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aditkurnia&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditkurnia&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
 
 ## 🏆 Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/yourusername/your-repo/pull/123) in [yourusername/your-repo](https://github.com/yourusername/your-repo)
-2. 💪 Opened PR [#456](https://github.com/yourusername/your-repo/pull/456) in [yourusername/your-repo](https://github.com/yourusername/your-repo)
+1. 🎉 Merged PR [#123](https://github.com/aditkurnia/your-repo/pull/123) in [yourusername/your-repo](https://github.com/aditkurnia/your-repo)
+2. 💪 Opened PR [#456](https://github.com/aditkurnia/your-repo/pull/456) in [yourusername/your-repo](https://github.com/yourusername/your-repo)
 3. 🗣 Commented on [#789](https://github.com/yourusername/your-repo/issues/789) in [yourusername/your-repo](https://github.com/yourusername/your-repo)
 <!--END_SECTION:activity-->
 
