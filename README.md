@@ -1,5 +1,5 @@
 
-[![GitHub followers](https://img.shields.io/github/followers/aditkurnia?style=social)](https://github.com/yourusername)
+[![GitHub followers](https://img.shields.io/github/followers/aditkurnia?style=social)](https://github.com/aditkurnia)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
 
