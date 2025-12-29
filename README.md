@@ -1,57 +1,61 @@
-# Hi there 👋, I'm Adit Kurnia
 
 [![GitHub followers](https://img.shields.io/github/followers/aditkurnia?style=social)](https://github.com/yourusername)
 [![Twitter Follow](https://img.shields.io/twitter/follow/yourusername?style=social)](https://twitter.com/yourusername)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourusername/)](https://www.linkedin.com/in/yourusername/)
 
-## 💫 About Me
-- 🔭 I'm currently working on [Your Current Project]
-- 🌱 I'm currently learning [Something You're Learning]
-- 👯 I'm looking to collaborate on [Projects You're Interested In]
-- 💬 Ask me about [Your Expertise Areas]
-- 📫 How to reach me: [Your Email]
-- ⚡ Fun fact: [Something Interesting About You]
-
-## 🛠️ Languages and Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" alt="python" width="40" height="40"/>
-<!-- Add or remove icons based on your skills -->
+<!-- HEADER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=Hi%20I'm%20Adit%20Kurnia&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=aditkurnia&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditkurnia&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
-
-## 🏆 Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#123](https://github.com/aditkurnia/your-repo/pull/123) in [yourusername/your-repo](https://github.com/aditkurnia/your-repo)
-2. 💪 Opened PR [#456](https://github.com/aditkurnia/your-repo/pull/456) in [yourusername/your-repo](https://github.com/yourusername/your-repo)
-3. 🗣 Commented on [#789](https://github.com/yourusername/your-repo/issues/789) in [yourusername/your-repo](https://github.com/yourusername/your-repo)
-<!--END_SECTION:activity-->
-
-## 🌟 Featured Projects
-<a href="https://github.com/yourusername/project-1">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-1&theme=radical" />
-</a>
-<a href="https://github.com/yourusername/project-2">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project-2&theme=radical" />
-</a>
-
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://your-blog-url.com/post-1)
-- [Blog Post Title 2](https://your-blog-url.com/post-2)
-- [Blog Post Title 3](https://your-blog-url.com/post-3)
-<!-- BLOG-POST-LIST:END -->
-
-## 🎯 Support
-<p><a href="https://www.buymeacoffee.com/yourusername"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="yourusername" /></a></p><br><br>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=600&lines=Vocational+High+School+Student+from+Indonesia;Mobile+App+%26+Game+Developer;Learning+by+Building+Projects" />
+</p>
 
 ---
 
-⭐️ From aditkurnia (https://github.com/aditkurnia)
+## 👨‍💻 About Me
+
+🎓 Vocational High School (**SMK Negeri**) student from Indonesia  
+💡 Passionate about **Mobile Application Development** and **Game Development**  
+🚀 I love building apps and games, experimenting with ideas, and learning new technologies through real projects.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="45" />
+</p>
+
+---
+
+## 🎮 Focus Areas
+- 📱 Mobile Application Development  
+- 🎮 Mobile & PC Game Development  
+- ⚙️ Backend & Logic Programming  
+- 🧠 Continuous Learning & Experimenting  
+
+---
+
+## 📊 GitHub Stats (Optional but Cool 😎)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aditkurnia&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aditkurnia&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🚀 Motto
+> **"Learning by building, growing by experimenting."**
+
+<!-- FOOTER WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072ff,100:00c6ff&height=120&section=footer"/>
+</p>
