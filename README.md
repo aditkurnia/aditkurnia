@@ -46,9 +46,10 @@
 ## 📊 GitHub Stats (Optional but Cool 😎)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aditkurnia&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=aditkurnia&theme=tokyonight" height="165"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aditkurnia&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=aditkurnia&theme=tokyonight" />
 </p>
+
 
 ---
 
