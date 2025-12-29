@@ -44,10 +44,12 @@
 ---
 
 ## 📊 GitHub Stats (Optional but Cool 😎)
+<p align="center">
+  <img width="420" src="https://github-readme-stats.vercel.app/api?username=aditkurnia&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=aditkurnia&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=aditkurnia&theme=tokyonight" />
+  <img width="420" src="https://streak-stats.demolab.com?user=aditkurnia&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 
